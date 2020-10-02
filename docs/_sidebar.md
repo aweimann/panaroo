@@ -20,6 +20,7 @@
     - [Graph Gene Neighborhood](/post/gene_neighbourhood.md)
     - [Estimating the Pan-genome Size](/post/pansize.md)
     - [Co-Evolving Genes](/post/coevolution.md)
+    - [Subsetting the Graph](/post/reduce_graph.md)
 
 - Visualisation
     - [Visualising the Pangenome](/vis/cytoscape.md)
